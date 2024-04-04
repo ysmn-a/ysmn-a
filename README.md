@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yasmine</h1>
 <h3 align="center">A passionate student :)</h3>
 
+- ⭐️ I share my projects that teach me so much 
+- ⏳ In process : I learned Python. I am learning HTML, CSS and recently Javascript. I will learn deeper SQL
+- 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me **ysmn.program@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
