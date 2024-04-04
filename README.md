@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yasmine</h1>
 <h3 align="center">A passionate student :)</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ysmn-a&label=Profile%20views&color=0e75b6&style=flat" alt="ysmn-a" /> </p>
+
 - ⭐️ I share my projects that teach me so much 
 - ⏳ In process : I learned Python. I am learning HTML, CSS and recently Javascript. I will learn deeper SQL
 - 💞️ I’m looking to collaborate on open source
@@ -16,3 +18,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ysmn-a&show_icons=true&locale=en&layout=compact" alt="ysmn-a" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ysmn-a&show_icons=true&locale=en" alt="ysmn-a" /></p>
+
