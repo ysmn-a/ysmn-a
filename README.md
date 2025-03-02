@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ysmn-a&label=Profile%20views&color=0e75b6&style=flat" alt="ysmn-a" /> </p>
 
 - ⭐️ I share my projects that teach me so much 
-- ⏳ In process : Python, HTML, CSS. I will learn deeper SQL
-- 💞️ I’m looking to collaborate on open source
+- ⏳ In process : Javascript, Java and C. 
+- 💞️ I'm looking for a work-study contract
 - 📫 How to reach me **ysmn.program@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
